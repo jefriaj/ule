@@ -1,0 +1,9 @@
+#EXTM3U
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Aule Movies",Thrill
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="sule|Lokal",INDOSIAR HD1
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="sule|Lokal",INDOSIAR HD2
+http://rr2.dens.tv/s/s04/01.m3u8
+#XTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="sule|Lokal",SCTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
